@@ -1,0 +1,27 @@
+{
+  "name": "react-demo",
+  "version": "1.0.0",
+  "description": "This is React demo by Sunita Subhane",
+  "homepage": "https://github.com/sunitas25/react-demo#readme",
+  "bugs": {
+    "url": "https://github.com/sunitas25/react-demo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunitas25/react-demo.git"
+  },
+  "license": "ISC",
+  "author": "Sunita Subhane",
+  "type": "commonjs",
+  "source": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
