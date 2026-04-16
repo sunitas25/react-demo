@@ -19,3 +19,4 @@ Learn React
 - HTTPs Server
 - Tree Shaking - Remove unused code
 - Different build for Dev and Prod
+- Code transpile (Babel)
