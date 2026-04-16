@@ -1,9 +1,12 @@
 import React from "react";
 import { createRoot } from 'react-dom/client';
 
+const Title = () => (<h1 className="head">This is the page title</h1>)
+
 const HeadingComponent = () => (
     <div>
-        <h1>This is the functional component</h1>
+        <Title />
+        <h1>This is the heading component</h1>
     </div>
 );
 
